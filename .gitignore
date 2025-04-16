@@ -1,0 +1,38 @@
+/bin/Debug/net6.0/GroupDocs.Conversion.dll
+/bin/Debug/net6.0/ChromeHeadlessShell/Win64-124.0.6367.60/chrome-headless-shell-win64/chrome-headless-shell.exe
+/bin/Debug/net6.0/Chrome/Win64-124.0.6367.60/chrome-win64/chrome.dll
+/bin
+/obj
+/vs
+# User-specific files
+.vs
+.vscode
+.idea
+
+# ASP.NET Core
+appsettings*.json
+
+# User secrets
+secrets.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+
+# VS Code directories
+/.vscode/
+
+# JetBrains Rider files
+.idea/
+
+# Logs
+*.log
+
+# ASP.NET Core temporary files
+project.lock.json
+project.fragment.lock.json
